@@ -1,0 +1,16 @@
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\bin\Debug\net5.0\APIClient.exe
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\bin\Debug\net5.0\APIClient.deps.json
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\bin\Debug\net5.0\APIClient.runtimeconfig.json
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\bin\Debug\net5.0\APIClient.runtimeconfig.dev.json
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\bin\Debug\net5.0\APIClient.dll
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\bin\Debug\net5.0\ref\APIClient.dll
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\bin\Debug\net5.0\APIClient.pdb
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.AssemblyInfoInputs.cache
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.AssemblyInfo.cs
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.csproj.CoreCompileInputs.cache
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.dll
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\ref\APIClient.dll
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.pdb
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.genruntimeconfig.cache
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\net5.0\APIClient.csprojAssemblyReference.cache

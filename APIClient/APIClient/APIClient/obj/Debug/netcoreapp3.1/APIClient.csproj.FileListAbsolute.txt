@@ -1,0 +1,4 @@
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\netcoreapp3.1\APIClient.csprojAssemblyReference.cache
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\netcoreapp3.1\APIClient.AssemblyInfoInputs.cache
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\netcoreapp3.1\APIClient.AssemblyInfo.cs
+D:\Rohit\dotnet\APIClient\APIClient\APIClient\obj\Debug\netcoreapp3.1\APIClient.csproj.CoreCompileInputs.cache
